@@ -8,7 +8,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_6925958fc3d837e7a3b0834094ae75eaf970ae51.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_6925958fc3d837e7a3b0834094ae75eaf970ae51.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,16 +17,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_37b4bd67756b97528160208fc6df25ab7a08b2c4.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_37b4bd67756b97528160208fc6df25ab7a08b2c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_af6073795ded185b8879562225d7cfeaee5bf8ce.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_46bd2ddc3142760ef838f84ba142f856ae06ebd7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +35,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e8c6fc07ca7559469937abd9211e6747ca822885.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e8c6fc07ca7559469937abd9211e6747ca822885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_018925c08db31c90700052244ed1ac7447c9af40.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,34 +53,52 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_46b0c1715d44bdbd9699bd81ed505d5da12def42.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_46b0c1715d44bdbd9699bd81ed505d5da12def42.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_aa71d21ef7e2e2cc795c1737d5d609181093cb88.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_cd18ed6d781a4e3deacad51cb7b05fe6845cf42a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2e486f438bb66261a0d0b6ade85f0f06ccc88db5.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_6bf7a4afac91242fda5a110fee097299157be9d8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_ce6d40ff7db35556938b0b0cf767ea3450dadfaa.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_596ba4ad7c578ab5b0cfbb3224906d1a47665d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_aca8125f055b1c8e329bbf9b50454ddfeae381b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_abb7cec1a10b64eeff3ff4092e9a39850daed299.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,52 +107,43 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_57626c874829369f5d99d81f9a11633412957d97.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_57626c874829369f5d99d81f9a11633412957d97.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_adfb6d214b716d42835b7be28e6fa3b89a9ab7ee.jar" />
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_db364b34b49db9ac0051961d905fc8dec35d5c35.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_672708685c4696c30cb39357a26f59173464e6a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a243c792de23229bc9b202d071bf5eeb519fe3c8.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d287fefd826ce8e51e99b2b855ff8b5a8d67859f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_d18f8ed77f8ec123a7419f4aeae27d9656317e41.jar" />
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_7371649a58d974d4912d166008cf89ae6ed1d27c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_b81ed58c8284465cddfb2a9456ca405eb5457e90.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_f480398df8118c7d83d81fa9d721b280a9c7e16f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +152,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_895e3efa0f0de328c26c573da149a0eaa66ff7e3.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_895e3efa0f0de328c26c573da149a0eaa66ff7e3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,43 +161,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_dd43ddaf5469213e086a4b6dc7b8d2dc90806091.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_dd43ddaf5469213e086a4b6dc7b8d2dc90806091.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_59ae5aa78667f77ae23bf54e00f3b376240eee90.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_862eb9066abce7b6ea3fb6bf82c0f8f6ce93e86b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_f56d0396f7306e1d9877cb021baed552783627a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.3_07d8fde2ba170d223b1e8b9078291119ed121a36.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e396ea8923c7ba1f0b3c90bfcbb66c83fc4cbefe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +179,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\_ks-repositories\TaxiApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_dd9f6e613ae090804f3110b89258de77a1350c44.jar" />
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_dd9f6e613ae090804f3110b89258de77a1350c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="C:\_ks-repositories\_react\TaxiApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.3_875815d9ee9c4c56cd4e073f1c3e863e3af052b8.jar" />
     </item>
 
 </items>
